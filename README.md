@@ -16,7 +16,6 @@ import (
 fmt.Println(IsNil(nil))
 // will print 'true'
 ...
-
 ```
 
 ### string
